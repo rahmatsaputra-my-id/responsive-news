@@ -1,0 +1,121 @@
+@font-face {
+   font-family: 'LibreBaskerville-Bold';
+   src: url('LibreBaskerville/LibreBaskerville-Bold.eot');
+   src: url('LibreBaskerville/LibreBaskerville-Bold.eot?#iefix') format('embedded-opentype'),
+      url('LibreBaskerville/LibreBaskerville-Bold.woff2') format('woff2'),
+      url('LibreBaskerville/LibreBaskerville-Bold.woff') format('woff');
+   font-weight: normal;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: 'LibreBaskerville-Regular';
+   src: url('LibreBaskerville/LibreBaskerville-Regular.eot');
+   src: url('LibreBaskerville/LibreBaskerville-Regular.eot?#iefix') format('embedded-opentype'),
+      url('LibreBaskerville/LibreBaskerville-Regular.woff2') format('woff2'),
+      url('LibreBaskerville/LibreBaskerville-Regular.woff') format('woff');
+   font-weight: normal;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: 'LibreBaskerville-Italic';
+   src: url('LibreBaskerville/LibreBaskerville-Italic.eot');
+   src: url('LibreBaskerville/LibreBaskerville-Italic.eot?#iefix') format('embedded-opentype'),
+      url('LibreBaskerville/LibreBaskerville-Italic.woff2') format('woff2'),
+      url('LibreBaskerville/LibreBaskerville-Italic.woff') format('woff');
+   font-weight: normal;
+   font-style: normal;
+}
+
+
+
+@font-face {
+   font-family: 'Inter-Black';
+   src: url('Inter/Inter-Black.eot');
+   src: url('Inter/Inter-Black.eot?#iefix') format('embedded-opentype'),
+      url('Inter/Inter-Black.woff2') format('woff2'),
+      url('Inter/Inter-Black.woff') format('woff');
+   font-weight: normal;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: 'Inter-ExtraBold';
+   src: url('Inter/Inter-ExtraBold.eot');
+   src: url('Inter/Inter-ExtraBold.eot?#iefix') format('embedded-opentype'),
+      url('Inter/Inter-ExtraBold.woff2') format('woff2'),
+      url('Inter/Inter-ExtraBold.woff') format('woff');
+   font-weight: normal;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: 'Inter-SemiBold';
+   src: url('Inter/Inter-SemiBold.eot');
+   src: url('Inter/Inter-SemiBold.eot?#iefix') format('embedded-opentype'),
+      url('Inter/Inter-SemiBold.woff2') format('woff2'),
+      url('Inter/Inter-SemiBold.woff') format('woff');
+   font-weight: normal;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: 'Inter-Bold';
+   src: url('Inter/Inter-Bold.eot');
+   src: url('Inter/Inter-Bold.eot?#iefix') format('embedded-opentype'),
+      url('Inter/Inter-Bold.woff2') format('woff2'),
+      url('Inter/Inter-Bold.woff') format('woff');
+   font-weight: normal;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: 'Inter-Medium';
+   src: url('Inter/Inter-Medium.eot');
+   src: url('Inter/Inter-Medium.eot?#iefix') format('embedded-opentype'),
+      url('Inter/Inter-Medium.woff2') format('woff2'),
+      url('Inter/Inter-Medium.woff') format('woff');
+   font-weight: normal;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: 'Inter-Regular';
+   src: url('Inter/Inter-Regular.eot');
+   src: url('Inter/Inter-Regular.eot?#iefix') format('embedded-opentype'),
+      url('Inter/Inter-Regular.woff2') format('woff2'),
+      url('Inter/Inter-Regular.woff') format('woff');
+   font-weight: normal;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: 'Inter-ExtraLight';
+   src: url('Inter/Inter-ExtraLight.eot');
+   src: url('Inter/Inter-ExtraLight.eot?#iefix') format('embedded-opentype'),
+      url('Inter/Inter-ExtraLight.woff2') format('woff2'),
+      url('Inter/Inter-ExtraLight.woff') format('woff');
+   font-weight: normal;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: 'Inter-Light';
+   src: url('Inter/Inter-Light.eot');
+   src: url('Inter/Inter-Light.eot?#iefix') format('embedded-opentype'),
+      url('Inter/Inter-Light.woff2') format('woff2'),
+      url('Inter/Inter-Light.woff') format('woff');
+   font-weight: normal;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: 'Inter-Thin';
+   src: url('Inter/Inter-Thin.eot');
+   src: url('Inter/Inter-Thin.eot?#iefix') format('embedded-opentype'),
+      url('Inter/Inter-Thin.woff2') format('woff2'),
+      url('Inter/Inter-Thin.woff') format('woff');
+   font-weight: normal;
+   font-style: normal;
+}
