@@ -1,7 +1,7 @@
 const localStorageKey = "LOC_DATA";
 const sessionStorageKey = "SES_DATA";
 
-const baseURL = 'https://newsapi.org/v2';
+const baseURL = 'http://newsapi.org/v2';
 const country = 'id';
 const category = 'general';
 const apiKey = '5a167798e53f44fc8e141fec905a21c1'
